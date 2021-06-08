@@ -1,0 +1,1609 @@
+1623133413070	geckodriver	INFO	Listening on 127.0.0.1:64527
+1623133416164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile4rmcsT"
+1623133417292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile4rmcsT\\search.json.mozlz4", (void 0)))
+1623133420964	Marionette	INFO	Listening on port 64535
+1623133421510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623133448249	Marionette	INFO	Stopped listening on port 64535
+JavaScript error: https://s.go-mpulse.net/boomerang/P4S98-FTZ59-DVK4T-C5SG5-AXGYM, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofile4rmcsT\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623133449654	geckodriver	INFO	Listening on 127.0.0.1:57843
+1623133452724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile6s3nOZ"
+1623133453293	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile6s3nOZ\\search.json.mozlz4", (void 0)))
+1623133456714	Marionette	INFO	Listening on port 57852
+1623133456926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623133483432	Marionette	INFO	Stopped listening on port 57852
+JavaScript error: https://s.go-mpulse.net/boomerang/P4S98-FTZ59-DVK4T-C5SG5-AXGYM, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+1623133484827	geckodriver	INFO	Listening on 127.0.0.1:49275
+1623133487918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilevgWFAN"
+1623133488579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilevgWFAN\\search.json.mozlz4", (void 0)))
+1623133492048	Marionette	INFO	Listening on port 49283
+1623133492134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript error: chrome://marionette/content/driver.js, lin1623133527810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profilJavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all conneconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileuNHjhA\\search.json.mozlz4", (void 0)))
+1623133532289	Marionette	INFO	Listening on port 57603
+1623133532643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623133542287	Marionette	INFO	Stopped listening on port 57603
+JavaScript error: https://s.go-mpulse.net/boomerang/P4S98-FTZ59-DVK4T-C5SG5-AXGYM, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileuNHjhA\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623133543631	geckodriver	INFO	Listening on 127.0.0.1:62009
+1623133546708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile2aY3W6"
+1623133547362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile2aY3W6\\search.json.mozlz4", (void 0)))
+1623133550980	Marionette	INFO	Listening on port 62017
+1623133551013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623133578065	Marionette	INFO	Stopped listening on port 62017
+JavaScript error: https://s.go-mpulse.net/boomerang/P4S98-FTZ59-DVK4T-C5SG5-AXGYM, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623133579271	geckodriver	INFO	Listening on 127.0.0.1:53435
+1623133582350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilex3fooe"
+1623133583038	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilex3fooe\\search.json.mozlz4", (void 0)))
+1623133586883	Marionette	INFO	Listening on port 58180
+1623133587163	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623133588246	Marionette	INFO	Stopped listening on port 58180
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623133675644	geckodriver	INFO	Listening on 127.0.0.1:50753
+1623133678730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilei78eJb"
+1623133679392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilei78eJb\\search.json.mozlz4", (void 0)))
+1623133682848	Marionette	INFO	Listening on port 56269
+1623133682937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623133721184	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623133737846	Marionette	INFO	Stopped listening on port 56269
+JavaScript error: https://s.go-mpulse.net/boomerang/P4S98-FTZ59-DVK4T-C5SG5-AXGYM, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623133761109	geckodriver	INFO	Listening on 127.0.0.1:60302
+1623133764200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileoi9gYN"
+1623133764854	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileoi9gYN\\search.json.mozlz4", (void 0)))
+1623133768415	Marionette	INFO	Listening on port 60312
+1623133768537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623133797248	Marionette	INFO	Stopped listening on port 60312
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623133948797	geckodriver	INFO	Listening on 127.0.0.1:61941
+1623133951891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilejM9FYO"
+1623133952538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilejM9FYO\\search.json.mozlz4", (void 0)))
+1623133955997	Marionette	INFO	Listening on port 61949
+1623133956102	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623134028852	Marionette	INFO	Stopped listening on port 61949
+[Child 18928, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofilejM9FYO\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623134029972	geckodriver	INFO	Listening on 127.0.0.1:65328
+1623134033061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileECNeo6"
+1623134033732	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileECNeo6\\search.json.mozlz4", (void 0)))
+1623134037016	Marionette	INFO	Listening on port 65336
+1623134037256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript error: chrome://marionette/content/driver.js, lin1623134074616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profilJavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScripconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileW5vcMi\\search.json.mozlz4", (void 0)))
+1623134078667	Marionette	INFO	Listening on port 53774
+1623134078820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1623134130466	Marionette	INFO	Stopped listening on port 53774
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623134133649	geckodriver	INFO	Listening on 127.0.0.1:62305
+1623134136725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileixm0BU"
+1623134137378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileixm0BU\\search.json.mozlz4", (void 0)))
+1623134140746	Marionette	INFO	Listening on port 62313
+1623134140923	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1623134280180	Marionette	INFO	Stopped listening on port 62313
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileghrHeq"
+1623134156008	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileghrHeq\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134159611	Marionette	INFO	Listening on port 62334
+1623134159693	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 288: TypeError: this._builder is undefined
+1623134280216	Marionette	INFO	Stopped listening on port 62334
+pen the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileERaBYq\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134167032	Marionette	INFO	Listening on port 62365
+1623134167258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280259	Marionette	INFO	Stopped listening on port 62365
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilehm5vIY"
+1623134171291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilehm5vIY\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134174637	Marionette	INFO	Listening on port 62387
+1623134174910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280463	Marionette	INFO	Stopped listening on port 62387
+3134178347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilevC9Oly"
+1623134178925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilevC9Oly\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134182290	Marionette	INFO	Listening on port 62406
+1623134182565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280198	Marionette	INFO	Stopped listening on port 62406
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilelAg2II"
+1623134186834	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilelAg2II\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134190291	Marionette	INFO	Listening on port 62425
+1623134190487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280554	Marionette	INFO	Stopped listening on port 62425
+3134193938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileEOQEjN"
+1623134194470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileEOQEjN\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134197714	Marionette	INFO	Listening on port 52230
+1623134198142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280534	Marionette	INFO	Stopped listening on port 52230
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileDth4aM"
+1623134202178	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileDth4aM\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134205556	Marionette	INFO	Listening on port 64555
+1623134205772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134266828	Marionette	INFO	Stopped listening on port 64555
+3134209247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileS4iAtu"
+1623134209847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileS4iAtu\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134213222	Marionette	INFO	Listening on port 52571
+1623134213460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134268839	Marionette	INFO	Stopped listening on port 52571
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile3doBqo"
+1623134217617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile3doBqo\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134220930	Marionette	INFO	Listening on port 52590
+1623134221162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280420	Marionette	INFO	Stopped listening on port 52590
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileKIXlOG"
+1623134225074	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileKIXlOG\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134228180	Marionette	INFO	Listening on port 52609
+1623134228282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280394	Marionette	INFO	Stopped listening on port 52609
+3134231696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileoHhuoT"
+1623134232321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileoHhuoT\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134235344	Marionette	INFO	Listening on port 51024
+1623134235387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280379	Marionette	INFO	Stopped listening on port 51024
+3134243854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiledgxqQK"
+1623134244515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiledgxqQK\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134247777	Marionette	INFO	Listening on port 51043
+1623134248054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280265	Marionette	INFO	Stopped listening on port 51043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilen2fptx"
+1623134252133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilen2fptx\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134255767	Marionette	INFO	Listening on port 60643
+1623134256303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280464	Marionette	INFO	Stopped listening on port 60643
+3134259776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileG1SFhQ"
+1623134260505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileG1SFhQ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134263785	Marionette	INFO	Listening on port 60663
+1623134263999	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25936, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 25936, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1623134280379	Marionette	INFO	Stopped listening on port 60663
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+s\\Saif\\AppData\\Local\\Temp\\rust_mozprofileLaUPs0\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623134271199	Marionette	INFO	Listening on port 60682
+1623134271629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623134280327	Marionette	INFO	Stopped listening on port 60682
+1623134462434	geckodriver	INFO	Listening on 127.0.0.1:53517
+1623134465486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileyY6DDZ"
+*** You are running in headless mode.
+1623134466089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileyY6DDZ\\search.json.mozlz4", (void 0)))
+1623134467791	Marionette	INFO	Listening on port 51492
+1623134468196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623134473602	Marionette	INFO	Stopped listening on port 51492
+[Parent 15412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://s.go-mpulse.net/boomerang/P4S98-FTZ59-DVK4T-C5SG5-AXGYM, line 16: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+1623134476633	geckodriver	INFO	Listening on 127.0.0.1:59760
+1623134479698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileq1iM5w"
+*** You are running in headless mode.
+1623134480237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileq1iM5w\\search.json.mozlz4", (void 0)))
+1623134482106	Marionette	INFO	Listening on port 59768
+1623134482378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wQPplS2CBbapxPPsKjLjCt6L9Rv2P8O8syxzKLSpyaY.js line 1 > eval line 3631 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623134510356	Marionette	INFO	Stopped listening on port 59768
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileq1iM5w\protections.sqlite
+1623134511592	geckodriver	INFO	Listening on 127.0.0.1:52291
+1623134514692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileKq6l5L"
+*** You are running in headless mode.
+1623134515284	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileKq6l5L\\search.json.mozlz4", (void 0)))
+1623134517154	Marionette	INFO	Listening on port 52299
+1623134517374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 6213 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 5708 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623134545405	Marionette	INFO	Stopped listening on port 52299
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileKq6l5L\protections.sqlite
+1623134546519	geckodriver	INFO	Listening on 127.0.0.1:63738
+1623134549596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileLHC8Hh"
+*** You are running in headless mode.
+1623134550198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileLHC8Hh\\search.json.mozlz4", (void 0)))
+1623134551867	Marionette	INFO	Listening on port 63747
+1623134552284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 908 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623134565044	Marionette	INFO	Stopped listening on port 63747
+1623134566223	geckodriver	INFO	Listening on 127.0.0.1:64007
+1623134569311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile07A23o"
+*** You are running in headless mode.
+1623134569852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile07A23o\\search.json.mozlz4", (void 0)))
+1623134571594	Marionette	INFO	Listening on port 64015
+1623134571996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623134608468	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 956 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623134651363	Marionette	INFO	Stopped listening on port 64015
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofile07A23o\protections.sqlite
+1623134652572	geckodriver	INFO	Listening on 127.0.0.1:52451
+1623134655642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileNkUuZs"
+*** You are running in headless mode.
+1623134656245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileNkUuZs\\search.json.mozlz4", (void 0)))
+1623134657847	Marionette	INFO	Listening on port 58947
+1623134658323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 2372 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623134686999	Marionette	INFO	Stopped listening on port 58947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileNkUuZs\protections.sqlite
+1623134688070	geckodriver	INFO	Listening on 127.0.0.1:62263
+1623134691146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilev60tw7"
+*** You are running in headless mode.
+1623134691669	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilev60tw7\\search.json.mozlz4", (void 0)))
+1623134693235	Marionette	INFO	Listening on port 53537
+1623134693335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 6950 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623134742157	Marionette	INFO	Stopped listening on port 53537
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofilev60tw7\protections.sqlite
+1623134743343	geckodriver	INFO	Listening on 127.0.0.1:53447
+1623134746412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiletx240l"
+*** You are running in headless mode.
+1623134746898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiletx240l\\search.json.mozlz4", (void 0)))
+1623134748438	Marionette	INFO	Listening on port 63406
+1623134748483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 1486 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623134795396	Marionette	INFO	Stopped listening on port 63406
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofiletx240l\protections.sqlite
+1623134796530	geckodriver	INFO	Listening on 127.0.0.1:55551
+1623134799625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileHOncBZ"
+*** You are running in headless mode.
+1623134800152	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileHOncBZ\\search.json.mozlz4", (void 0)))
+1623134801762	Marionette	INFO	Listening on port 61908
+1623134801804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 1506 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623134819244	Marionette	INFO	Stopped listening on port 61908
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileHOncBZ\protections.sqlite
+1623134820375	geckodriver	INFO	Listening on 127.0.0.1:62904
+1623134823445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileBUhW2G"
+*** You are running in headless mode.
+1623134823974	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileBUhW2G\\search.json.mozlz4", (void 0)))
+1623134825718	Marionette	INFO	Listening on port 61840
+1623134826117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623134886295	Marionette	INFO	Stopped listening on port 61840
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileBUhW2G\protections.sqlite
+1623134887424	geckodriver	INFO	Listening on 127.0.0.1:54162
+1623134890504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileK6GwYp"
+*** You are running in headless mode.
+1623134891026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileK6GwYp\\search.json.mozlz4", (void 0)))
+1623134892512	Marionette	INFO	Listening on port 64977
+1623134892555	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623134953078	Marionette	INFO	Stopped listening on port 64977
+1623134954230	geckodriver	INFO	Listening on 127.0.0.1:58152
+1623134957312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile2ji4Ea"
+*** You are running in headless mode.
+1623134957901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile2ji4Ea\\search.json.mozlz4", (void 0)))
+1623134959328	Marionette	INFO	Listening on port 54969
+1623134959396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 2617 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623135037928	Marionette	INFO	Stopped listening on port 54969
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofile2ji4Ea\protections.sqlite
+1623135039019	geckodriver	INFO	Listening on 127.0.0.1:59475
+1623135042042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileiEj1hD"
+*** You are running in headless mode.
+1623135042511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileiEj1hD\\search.json.mozlz4", (void 0)))
+1623135044221	Marionette	INFO	Listening on port 52975
+1623135044706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 3393 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623135081409	Marionette	INFO	Stopped listening on port 52975
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileiEj1hD\protections.sqlite
+1623135082472	geckodriver	INFO	Listening on 127.0.0.1:64831
+1623135085560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile53aFo2"
+*** You are running in headless mode.
+1623135086105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile53aFo2\\search.json.mozlz4", (void 0)))
+1623135087771	Marionette	INFO	Listening on port 62925
+1623135088238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 5108 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623135133418	Marionette	INFO	Stopped listening on port 62925
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofile53aFo2\protections.sqlite
+1623135134665	geckodriver	INFO	Listening on 127.0.0.1:53072
+1623135137738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileNFMmzB"
+*** You are running in headless mode.
+1623135138233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileNFMmzB\\search.json.mozlz4", (void 0)))
+1623135139742	Marionette	INFO	Listening on port 49616
+1623135139797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623135187287	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623135187322	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623135208343	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 2534 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623135233210	Marionette	INFO	Stopped listening on port 49616
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileNFMmzB\protections.sqlite
+1623135234270	geckodriver	INFO	Listening on 127.0.0.1:53597
+1623135237362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile79zqkw"
+*** You are running in headless mode.
+1623135238003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile79zqkw\\search.json.mozlz4", (void 0)))
+1623135239801	Marionette	INFO	Listening on port 59314
+1623135240051	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 7603 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623135258892	Marionette	INFO	Stopped listening on port 59314
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofile79zqkw\protections.sqlite
+1623135259961	geckodriver	INFO	Listening on 127.0.0.1:58235
+1623135263021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileNoUkPl"
+*** You are running in headless mode.
+1623135263585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileNoUkPl\\search.json.mozlz4", (void 0)))
+1623135265444	Marionette	INFO	Listening on port 52837
+1623135265714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wQPplS2CBbapxPPsKjLjCt6L9Rv2P8O8syxzKLSpyaY.js line 1 > eval line 2944 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623135335493	Marionette	INFO	Stopped listening on port 52837
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileNoUkPl\protections.sqlite
+1623135336626	geckodriver	INFO	Listening on 127.0.0.1:50129
+1623135339721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilegXgHvu"
+*** You are running in headless mode.
+1623135340230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilegXgHvu\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135342123	Marionette	INFO	Listening on port 57872
+1623135342407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135870488	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+round" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilewniUSY"
+*** You are running in headless mode.
+1623135346338	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilewniUSY\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135347911	Marionette	INFO	Listening on port 56509
+1623135348001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135876641	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+\Local\\Temp\\rust_mozprofiletKv2LJ"
+*** You are running in headless mode.
+1623135351909	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiletKv2LJ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135353784	Marionette	INFO	Listening on port 63347
+1623135354046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135882200	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_FAILURE
+marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile8P0V8h"
+*** You are running in headless mode.
+1623135358159	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile8P0V8h\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135360182	Marionette	INFO	Listening on port 54397
+1623135360224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135888476	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_FAILURE
+marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilefRqHym"
+*** You are running in headless mode.
+1623135364332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilefRqHym\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135366216	Marionette	INFO	Listening on port 61600
+1623135366464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+7.0.0.1:64907
+1623135369842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile41ZSKY"
+*** You are running in headless mode.
+1623135370369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile41ZSKY\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135372209	Marionette	INFO	Listening on port 49170
+1623135372531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135900606	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+round" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileUWfg2Q"
+*** You are running in headless mode.
+1623135376581	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileUWfg2Q\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135378502	Marionette	INFO	Listening on port 64611
+1623135378687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+7.0.0.1:59912
+1623135382078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile4AZzN2"
+*** You are running in headless mode.
+1623135382615	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile4AZzN2\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135384478	Marionette	INFO	Listening on port 64531
+1623135384766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135385084	geckodriver	INFO	Listening on 127.0.0.1:50273
+1623135388147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile1tu1Ts"
+*** You are running in headless mode.
+1623135388757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile1tu1Ts\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135390686	Marionette	INFO	Listening on port 55273
+1623135390828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135918941	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+ogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiletALcoi"
+*** You are running in headless mode.
+1623135394857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiletALcoi\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135396615	Marionette	INFO	Listening on port 49452
+1623135396944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135925137	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+ogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile6Y6vMW"
+*** You are running in headless mode.
+1623135400891	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile6Y6vMW\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135402601	Marionette	INFO	Listening on port 55204
+1623135403013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135931202	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+Exiting due to channel error.
+irefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileMQX0jS"
+*** You are running in headless mode.
+1623135407017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileMQX0jS\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135408937	Marionette	INFO	Listening on port 56980
+1623135409104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135937269	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+ogram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileXgZH3p"
+*** You are running in headless mode.
+1623135413184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileXgZH3p\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135415056	Marionette	INFO	Listening on port 50413
+1623135415201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135943489	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+Exiting due to channel error.
+irefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileDeMGmc"
+*** You are running in headless mode.
+1623135419239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileDeMGmc\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135421086	Marionette	INFO	Listening on port 52928
+1623135421263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135421647	geckodriver	INFO	Listening on 127.0.0.1:61873
+1623135424679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile8ypsuD"
+*** You are running in headless mode.
+1623135425281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile8ypsuD\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135426951	Marionette	INFO	Listening on port 60773
+1623135427378	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1623135955513	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+archSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilecNdyxJ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135432940	Marionette	INFO	Listening on port 61146
+1623135433381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135961440	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+Exiting due to channel error.
+m: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135439299	Marionette	INFO	Listening on port 56807
+1623135439490	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkO1623135959704	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Messaconsole.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOJavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+eSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:51623135972133	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+Exiting due to channel error.
+lineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineErrorExiting due to channel error.
+
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings1623135983834	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+ource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is o1623135995981	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+n/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/rem1623136001340	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnExiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+nges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSetconsole.error: services.settings: 
+  blocklists/addons-bloomfilters Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClienJavaScript error: , line 0: NS_ERROR_FAILURE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+r: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/Rem1623136025207	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: N1623136031240	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+date list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+lineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@1623136037373	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+ces-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resour1623136043397	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+date list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+workOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.1623136055602	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+Exiting due to channel error.
+ettings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.j1623136061792	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+ownloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/Rem1623136068367	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+[GFX1-]: Receive IPC close with rstem addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+gsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: N1623136074415	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1623136019172	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@1623136080371	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+Exiting due to channel error.
+nt.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resour1623136086450	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+onsole.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Sta1623136092280	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+oteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.Exiting due to channel error.
+[ices.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    NetworkOfflineError@resource://services-settings/RemoteSettingsClient.jsm:130:5
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:517:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:310:22
+
+1623136049377	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+rust_mozprofilecI7eQY"
+*** You are running in headless mode.
+1623135600536	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilecI7eQY\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135602099	Marionette	INFO	Listening on port 54028
+1623135602248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623136110701	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilerFPd7z"
+*** You are running in headless mode.
+1623135606103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilerFPd7z\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135607869	Marionette	INFO	Listening on port 52800
+1623135608252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623136116283	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileUUChRh"
+*** You are running in headless mode.
+1623135612255	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileUUChRh\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135614029	Marionette	INFO	Listening on port 59285
+1623135614278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623136122438	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilemdt28l"
+*** You are running in headless mode.
+1623135618246	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilemdt28l\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135620013	Marionette	INFO	Listening on port 49160
+1623135620301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623136128503	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileKmQER9"
+*** You are running in headless mode.
+1623135624359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileKmQER9\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135626134	Marionette	INFO	Listening on port 54363
+1623135626488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623136134666	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileGYONSr"
+*** You are running in headless mode.
+1623135630609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileGYONSr\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135632415	Marionette	INFO	Listening on port 57610
+1623135632594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135632953	geckodriver	INFO	Listening on 127.0.0.1:55789
+1623135636004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileJj3sFU"
+*** You are running in headless mode.
+1623135636674	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileJj3sFU\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135638369	Marionette	INFO	Listening on port 52079
+1623135638697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623136146796	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilenNL7Mb"
+*** You are running in headless mode.
+1623135642762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilenNL7Mb\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135644355	Marionette	INFO	Listening on port 62352
+1623135644797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135645127	geckodriver	INFO	Listening on 127.0.0.1:49397
+1623135648194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile6ZDnqY"
+*** You are running in headless mode.
+1623135648778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile6ZDnqY\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135650568	Marionette	INFO	Listening on port 55695
+1623135650872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623136158924	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilekTkSgg"
+*** You are running in headless mode.
+1623135654841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilekTkSgg\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135656768	Marionette	INFO	Listening on port 57623
+1623135656967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623136165016	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiletnFaJf"
+*** You are running in headless mode.
+1623135661044	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiletnFaJf\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135662875	Marionette	INFO	Listening on port 58165
+1623135663076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135663408	geckodriver	INFO	Listening on 127.0.0.1:57747
+1623135666487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile9dRgDh"
+*** You are running in headless mode.
+1623135666977	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile9dRgDh\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135668653	Marionette	INFO	Listening on port 50150
+1623135669178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135669467	geckodriver	INFO	Listening on 127.0.0.1:60199
+1623135672513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileoSGzNg"
+*** You are running in headless mode.
+1623135673143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileoSGzNg\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135674907	Marionette	INFO	Listening on port 53739
+1623135675201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623136183339	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilevywlgG"
+*** You are running in headless mode.
+1623135679239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilevywlgG\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135680853	Marionette	INFO	Listening on port 60626
+1623135681298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135681682	geckodriver	INFO	Listening on 127.0.0.1:64081
+1623135684729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilemiRRpw"
+*** You are running in headless mode.
+1623135685427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilemiRRpw\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135687223	Marionette	INFO	Listening on port 61228
+1623135687407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135687773	geckodriver	INFO	Listening on 127.0.0.1:58021
+1623135690846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiles2VKi9"
+*** You are running in headless mode.
+1623135691547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofiles2VKi9\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135693182	Marionette	INFO	Listening on port 56363
+1623135693537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1623136201700	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileRzlf97"
+*** You are running in headless mode.
+1623135697596	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileRzlf97\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135699358	Marionette	INFO	Listening on port 58297
+1623135699664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1623136207771	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+eground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilet4m5Nf"
+*** You are running in headless mode.
+1623135703719	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilet4m5Nf\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135705725	Marionette	INFO	Listening on port 55480
+1623135705753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile43fHuT"
+*** You are running in headless mode.
+1623135709852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile43fHuT\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135711390	Marionette	INFO	Listening on port 63812
+1623135711849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623135712180	geckodriver	INFO	Listening on 127.0.0.1:57717
+1623135715238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilepkBxtt"
+*** You are running in headless mode.
+1623135715871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilepkBxtt\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135717856	Marionette	INFO	Listening on port 51899
+1623135717931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+runner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileWv6P0h"
+*** You are running in headless mode.
+1623135721902	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileWv6P0h\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135723781	Marionette	INFO	Listening on port 56908
+1623135724030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+runner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileN0gsm3"
+*** You are running in headless mode.
+1623135728189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileN0gsm3\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135729966	Marionette	INFO	Listening on port 61403
+1623135730177	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:57752
+1623135733566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilepEoxD4"
+*** You are running in headless mode.
+1623135734168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilepEoxD4\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135735828	Marionette	INFO	Listening on port 52809
+1623135736244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+Exiting due to channel error.
+runner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilefLes98"
+*** You are running in headless mode.
+1623135776968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilefLes98\\search.json.mozlz4", (void 0)))
+1623135779627	Marionette	INFO	Listening on port 56946
+1623135780090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 7173 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623135795360	Marionette	INFO	Stopped listening on port 56946
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofilefLes98\protections.sqlite
+1623135801266	geckodriver	INFO	Listening on 127.0.0.1:54103
+1623135804299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileqjOyOf"
+*** You are running in headless mode.
+1623135804969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileqjOyOf\\search.json.mozlz4", (void 0)))
+1623135807068	Marionette	INFO	Listening on port 55520
+1623135807504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623135839583	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623135839619	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623135839703	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623135849735	Marionette	INFO	Stopped listening on port 55520
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileqjOyOf\protections.sqlite
+1623135896312	geckodriver	INFO	Listening on 127.0.0.1:53676
+1623135899408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileST2bjc"
+*** You are running in headless mode.
+1623135900201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileST2bjc\\search.json.mozlz4", (void 0)))
+1623135902206	Marionette	INFO	Listening on port 57061
+1623135902623	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+Listening on 127.0.0.1:61246
+1623135948545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileJnnAtV"
+*** You are running in headless mode.
+1623135949144	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileJnnAtV\\search.json.mozlz4", (void 0)))
+1623135950840	Marionette	INFO	Listening on port 49264
+1623135951233	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1623135963620	geckodriver	INFO	Listening on 127.0.0.1:57392
+1623135966663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileJzLLv4"
+*** You are running in headless mode.
+1623135967243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileJzLLv4\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1623135969117	Marionette	INFO	Listening on port 59009
+Exiting due to channel error.
+1623136859640	geckodriver	INFO	Listening on 127.0.0.1:57138
+1623136862724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileX1qXR7"
+*** You are running in headless mode.
+1623136863710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileX1qXR7\\search.json.mozlz4", (void 0)))
+1623136865430	Marionette	INFO	Listening on port 57146
+1623136865932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BIKfHL6N8NnL0SRbyz4COSMYlE8t2lwSnrtAnHeyH4k.js line 1 > eval line 7497 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wQPplS2CBbapxPPsKjLjCt6L9Rv2P8O8syxzKLSpyaY.js line 1 > eval line 5869 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1623136896397	Marionette	INFO	Stopped listening on port 57146
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Saif\AppData\Local\Temp\rust_mozprofileX1qXR7\protections.sqlite
+1623136897460	geckodriver	INFO	Listening on 127.0.0.1:54546
+1623136900502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilevIC5eF"
+*** You are running in headless mode.
+1623136901059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilevIC5eF\\search.json.mozlz4", (void 0)))
+1623136902846	Marionette	INFO	Listening on port 54554
+1623136903189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1623137506713	geckodriver	INFO	Listening on 127.0.0.1:56696
+1623137509787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileHCP0cD"
+*** You are running in headless mode.
+1623137510246	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileHCP0cD\\search.json.mozlz4", (void 0)))
+1623137511658	Marionette	INFO	Listening on port 56704
+1623137511851	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390144,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 22588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 22588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1623138032564	Marionette	INFO	Stopped listening on port 56704
+arch.json.mozlz4", (void 0)))
+1623137526780	Marionette	INFO	Listening on port 56744
+1623137527240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623137564520	Marionette	INFO	Stopped listening on port 56744
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileSOFz5v"
+1623137551422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileSOFz5v\\search.json.mozlz4", (void 0)))
+1623137554592	Marionette	INFO	Listening on port 54820
+1623137555110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1623137626613	Marionette	INFO	Stopped listening on port 54820
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623137883444	geckodriver	INFO	Listening on 127.0.0.1:50398
+1623137886541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileksbSUb"
+1623137887137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileksbSUb\\search.json.mozlz4", (void 0)))
+1623137890647	Marionette	INFO	Listening on port 50406
+1623137890751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623137939489	Marionette	INFO	Stopped listening on port 50406
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilebEhCx3"
+1623137917453	Marionette	INFO	Marionette enabled
+console.wa1623137920451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozpr16231379209341623137920992	Marionette	INFO	Marionette e16231379console.warn: SearchSettings: "get: No settings file exists, new profile?" (new1623137942094	Marionette	INFO	Stopped listening on port 51924
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+NFO	Listening on port 51952
+1623137924644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/js/common_script.js?ver-20210513.01, line 27: unreachable code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:69
+unregisterCommandsActor@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:2335:3
+onClosed@chrome://marionette/content/server.js:194:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1623137980680	Marionette	INFO	Stopped listening on port 51952
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623138015822	geckodriver	INFO	Listening on 127.0.0.1:59634
+1623138018906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilevn82aF"
+1623138019476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilevn82aF\\search.json.mozlz4", (void 0)))
+1623138023053	Marionette	INFO	Listening on port 59642
+1623138023110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623138023146	Marionette	INFO	Stopped listening on port 59642
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623138043323	geckodriver	INFO	Listening on 127.0.0.1:59672
+1623138046396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileiqRzvN"
+1623138046975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileiqRzvN\\search.json.mozlz4", (void 0)))
+1623138050160	Marionette	INFO	Listening on port 59680
+1623138050598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623138050622	Marionette	INFO	Stopped listening on port 59680
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623138111064	geckodriver	INFO	Listening on 127.0.0.1:56465
+1623138114141	mozrunner::runner	INFO	Running command: "C:\\P1623138115604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozproficonsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofile4wgxFJ\\search.json.mozlz4", (void 0)))
+1623138119544	Marionette	INFO	Listening on port 56487
+1623138119814	Marionette	WA1623138127582	Marionette	INFO	Stopped listening on port 56479
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e code after return statement
+JavaScript warning: https://cdn.ndtv.com/static/web/js/custom.js?ver-20210513.01, line 420: unreachable code after return statement
+1623138305268	Marionette	INFO	Stopped listening on port 56487
+3138189926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileCzyOQa"
+1623138190562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofileCzyOQa\\search.json.mozlz4", (void 0)))
+1623138194332	Marionette	INFO	Listening on port 57720
+1623138194767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623138302520	Marionette	INFO	Stopped listening on port 57720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623138327724	geckodriver	INFO	Listening on 127.0.0.1:51909
+1623138330808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilecfSJTm"
+*** You are running in headless mode.
+1623138331337	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Saif\\AppData\\Local\\Temp\\rust_mozprofilecfSJTm\\search.json.mozlz4", (void 0)))
+1623138333018	Marionette	INFO	Listening on port 51918
+1623138333493	Marionette	WARN	TLS certificate errors will be ignored for this session
